@@ -1,6 +1,7 @@
 
-This repo is based on [wav2lip](https://github.com/Rudrabha/Wav2Lip) but finally failed.
-
+This repo is based on [wav2lip](https://github.com/Rudrabha/Wav2Lip) but finally failed. 
+The visualization results is not good. Maybe should adjust weight between L1 and sync loss.
+https://user-images.githubusercontent.com/27955693/118396001-015eef00-b680-11eb-8a58-e1acb46a03c1.mp4
 - 1.Preprocessing
 ```
 
