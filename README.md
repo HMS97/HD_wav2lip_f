@@ -30,3 +30,4 @@ python hq_wav2lip_train.py --data_root ../videos/lrs2_preprocessed/HQ_face/ --ch
 python inference.py --checkpoint_path checkpoints/checkpoint_step000021500.pth --face ../videos/main/fps_corrected_video/video-3-0-4a.mp4 --audio ../dictator_orig.wav
 CUDA_VISIBLE_DEVICES=1 python inference.py --checkpoint_path checkpoints/checkpoint_step000000200.pth --face ../video-0-0-1a.mov --audio ../dictator_orig.wav
 ```
+#thanks for my girl friend Yue li's support
